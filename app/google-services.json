@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "729187317497",
+    "firebase_url": "https://locationtracker-30549-default-rtdb.firebaseio.com",
+    "project_id": "locationtracker-30549",
+    "storage_bucket": "locationtracker-30549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729187317497:android:68ae0579d8beb893e95428",
+        "android_client_info": {
+          "package_name": "com.hermosaprogramacion.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26XNOjq8U-Zy44E4baqLt9MzGMZkuv1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729187317497:android:9927283d2243e126e95428",
+        "android_client_info": {
+          "package_name": "pe.juabsa.buslocationservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26XNOjq8U-Zy44E4baqLt9MzGMZkuv1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729187317497:android:b4d680c437a2cbfde95428",
+        "android_client_info": {
+          "package_name": "pe.juabsa.mybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26XNOjq8U-Zy44E4baqLt9MzGMZkuv1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729187317497-kpil25jmntchpcc697rjdt352hn0oese.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
